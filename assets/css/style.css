@@ -80,7 +80,9 @@ body {
 .active {
   color: var(--orange);
 }
-
+.card-text{
+  color: whitesmoke;
+}
 .card-subtitle,
 .card-text,
 a {
